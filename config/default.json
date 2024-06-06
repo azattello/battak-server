@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:nmLbsaFRmGQk0W8G@battak-kargo.xbl0igz.mongodb.net/?retryWrites=true&w=majority&appName=battak-kargo",
+    "secretKey" : "mern-secret-key"
+}
